@@ -1,11 +1,15 @@
-<marquee>
+
+<marquee> <right>
 - 👋 Hi, I’m @Nik8soni
 - 👀 I’m interested in ...
+Jewelry or code design
 - 🌱 I’m currently learning ...
+HTML JAVA SCRIPT
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+More then thinking
+- 📫 contact me ...
+Just call 8085690790
 </marquee>
 <!---
-Nik8soni/Nik8soni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
